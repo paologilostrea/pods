@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Paolo Kevin & Bean Archive</title>
+    <link>http://example.com</link>
+    <description>Audio files organized by year as podcast seasons.</description>
+    <language>en-us</language>
+    <itunes:author>Kevin</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    
+    <!-- Season 2025 -->
+    <item>
+      <title>January_05_2015.mp3</title>
+      <enclosure url="http://www.kevinandbeanarchive.com/January_05_2015-no_songs_no_commercials.mp3" type="audio/mpeg"/>
+      <guid>January_05_2015</guid>
+      <pubDate>Mon, 05 Jan 2025 10:00:00 GMT</pubDate>
+      <itunes:season>2015</itunes:season>
+    </item>
+
+    <item>
+      <title>January_06_2015</title>
+      <enclosure url="http://www.kevinandbeanarchive.com/January_06_2015-no_songs_no_commercials.mp3" type="audio/mpeg"/>
+      <guid>January_06_2015</guid>
+      <pubDate>Tue, 06 Jan 2025 08:00:00 GMT</pubDate>
+      <itunes:season>2015</itunes:season>
+    </item>
+
+    <!-- Season 2024 -->
+    <item>
+      <title>January_04_2016.mp3</title>
+      <enclosure url="http://www.kevinandbeanarchive.com/January_04_2016-no_songs_no_commercials.mp3" type="audio/mpeg"/>
+      <guid>January_04_2016</guid>
+      <pubDate>Mon, 04 Jan 2024 09:00:00 GMT</pubDate>
+      <itunes:season>2024</itunes:season>
+    </item>
+
+    <item>
+      <title>January_05_2016</title>
+      <enclosure url="http://www.kevinandbeanarchive.com/January_05_2016-no_songs_no_commercials.mp3" type="audio/mpeg"/>
+      <guid>January_05_2016</guid>
+      <pubDate>Tue, 05 Jan 2024 07:30:00 GMT</pubDate>
+      <itunes:season>2024</itunes:season>
+    </item>
+
+  </channel>
+</rss>
