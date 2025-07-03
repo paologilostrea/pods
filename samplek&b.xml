@@ -7,9 +7,11 @@
     <description>Old Kevin &amp; Bean Show podcast from the kevinandbeanarchive.com</description>
     <language>en-us</language>
     <itunes:author>Kevin S.</itunes:author>
+    <itunes:category text="Comedy"/>
+    <itunes:image href="https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/e4/5d/9c/e45d9c4f-872c-0b84-d342-13898dbf331f/mza_3255451433259962360.jpg/1200x1200bf-60.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     
-    <!-- Season 2025 -->
+    <!-- Season 2015 -->
     <item>
       <title>January_05_2015 The Kevin &amp; Bean Show</title>
       <enclosure url="http://www.kevinandbeanarchive.com/January_05_2015-no_songs_no_commercials.mp3" type="audio/mpeg"/>
@@ -47,6 +49,46 @@
       <enclosure url="http://www.kevinandbeanarchive.com/January_09_2015-no_songs_no_commercials.mp3" type="audio/mpeg"/>
       <guid>January_09_2015</guid>
       <pubDate>Fri, 09 Jan 2015 08:00:00 GMT</pubDate>
+      <itunes:season>2015</itunes:season>
+    </item>
+
+    <item>
+      <title>January 12 2015 The Kevin &amp; Bean Show</title>
+      <enclosure url="http://www.kevinandbeanarchive.com/January_12_2015-no_songs_no_commercials.mp3" type="audio/mpeg"/>
+      <guid>January_12_2015</guid>
+      <pubDate>Mon, 12 Jan 2015 10:00:00 GMT</pubDate>
+      <itunes:season>2015</itunes:season>
+    </item>
+
+    <item>
+      <title>January 13 2015 The Kevin &amp; Bean Show</title>
+      <enclosure url="http://www.kevinandbeanarchive.com/January_13_2015-no_songs_no_commercials.mp3" type="audio/mpeg"/>
+      <guid>January_13_2015</guid>
+      <pubDate>Tue, 13 Jan 2015 08:00:00 GMT</pubDate>
+      <itunes:season>2015</itunes:season>
+    </item>
+
+    <item>
+      <title>January 14 2015 The Kevin &amp; Bean Show</title>
+      <enclosure url="http://www.kevinandbeanarchive.com/January_14_2015-no_songs_no_commercials.mp3" type="audio/mpeg"/>
+      <guid>January_14_2015</guid>
+      <pubDate>Wed, 14 Jan 2015 08:00:00 GMT</pubDate>
+      <itunes:season>2015</itunes:season>
+    </item>
+
+    <item>
+      <title>January 15 015 The Kevin &amp; Bean Show</title>
+      <enclosure url="http://www.kevinandbeanarchive.com/January_15_2015-no_songs_no_commercials.mp3" type="audio/mpeg"/>
+      <guid>January_15_2015</guid>
+      <pubDate>Thu, 15 Jan 2015 08:00:00 GMT</pubDate>
+      <itunes:season>2015</itunes:season>
+    </item>
+
+    <item>
+      <title>January 16 2015 The Kevin &amp; Bean Show</title>
+      <enclosure url="http://www.kevinandbeanarchive.com/January_16_2015-no_songs_no_commercials.mp3" type="audio/mpeg"/>
+      <guid>January_16_2015</guid>
+      <pubDate>Fri, 16 Jan 2015 08:00:00 GMT</pubDate>
       <itunes:season>2015</itunes:season>
     </item>
 
