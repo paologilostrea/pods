@@ -2,16 +2,16 @@
 <rss version="2.0"
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
-    <title>Paolo's Kevin & Bean Archive</title>
-    <link></link>
-    <description>Old Kevin & Bean Show podcast from the kevinandbeanarchive.com</description>
+    <title>Paolo's Kevin &amp; Bean Archive</title>
+    <link>kevinandbeanarchive.com</link>
+    <description>Old Kevin &amp; Bean Show podcast from the kevinandbeanarchive.com</description>
     <language>en-us</language>
     <itunes:author>Kevin S.</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     
     <!-- Season 2025 -->
     <item>
-      <title>January_05_2015 The Kevin & Bean Show</title>
+      <title>January_05_2015 The Kevin &amp; Bean Show</title>
       <enclosure url="http://www.kevinandbeanarchive.com/January_05_2015-no_songs_no_commercials.mp3" type="audio/mpeg"/>
       <guid>January_05_2015</guid>
       <pubDate>Mon, 05 Jan 2015 10:00:00 GMT</pubDate>
@@ -19,7 +19,7 @@
     </item>
 
     <item>
-      <title>January_06_2015 The Kevin & Bean Show</title>
+      <title>January_06_2015 The Kevin &amp; Bean Show</title>
       <enclosure url="http://www.kevinandbeanarchive.com/January_06_2015-no_songs_no_commercials.mp3" type="audio/mpeg"/>
       <guid>January_06_2015</guid>
       <pubDate>Tue, 06 Jan 2015 08:00:00 GMT</pubDate>
@@ -27,7 +27,7 @@
     </item>
 
     <item>
-      <title>January_07_2015 The Kevin & Bean Show</title>
+      <title>January_07_2015 The Kevin &amp; Bean Show</title>
       <enclosure url="http://www.kevinandbeanarchive.com/January_07_2015-no_songs_no_commercials.mp3" type="audio/mpeg"/>
       <guid>January_07_2015</guid>
       <pubDate>Wed, 07 Jan 2015 08:00:00 GMT</pubDate>
@@ -35,7 +35,7 @@
     </item>
 
     <item>
-      <title>January_08_2015 The Kevin & Bean Show</title>
+      <title>January_08_2015 The Kevin &amp; Bean Show</title>
       <enclosure url="http://www.kevinandbeanarchive.com/January_08_2015-no_songs_no_commercials.mp3" type="audio/mpeg"/>
       <guid>January_08_2015</guid>
       <pubDate>Thu, 08 Jan 2015 08:00:00 GMT</pubDate>
@@ -43,7 +43,7 @@
     </item>
 
     <item>
-      <title>January_09_2015 The Kevin & Bean Show</title>
+      <title>January_09_2015 The Kevin &amp; Bean Show</title>
       <enclosure url="http://www.kevinandbeanarchive.com/January_09_2015-no_songs_no_commercials.mp3" type="audio/mpeg"/>
       <guid>January_09_2015</guid>
       <pubDate>Fri, 09 Jan 2015 08:00:00 GMT</pubDate>
